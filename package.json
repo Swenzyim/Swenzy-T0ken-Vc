@@ -1,0 +1,25 @@
+{
+  "name": "discord-voice-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.88",
+    "axios": "^1.13.2",
+    "debug": "^4.4.3",
+    "discord-rpc": "^4.0.1",
+    "discord.js": "^14.19.3",
+    "discord.js-selfbot-v13": "^3.2.4",
+    "discordrpcgenerator": "^1.2.0",
+    "gif-encoder-2": "^1.0.5",
+    "groq-sdk": "^0.37.0",
+    "openai": "^6.15.0"
+  },
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

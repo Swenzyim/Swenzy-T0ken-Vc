@@ -1,0 +1,12 @@
+{
+  "accounts": [],
+  "userStats": {
+    "xp": 0,
+    "level": 1,
+    "totalVoiceTime": 0,
+    "totalConnections": 0,
+    "lastXpGain": 0
+  },
+  "userRanks": {},
+  "notifications": {}
+}
