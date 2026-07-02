@@ -1,1 +1,1 @@
-https://discord.gg/pm2
+https://discord.gg/sql peyserler girin
