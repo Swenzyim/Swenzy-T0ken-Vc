@@ -1,1 +1,1 @@
-https://discord.gg/sql peyserler girin
+https://discord.gg/altyapi peyserler girin
