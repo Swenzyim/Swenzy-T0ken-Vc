@@ -74,7 +74,7 @@ Bu sistem, Discord hesapları oluşturmak ve yönetmek için geliştirilmiş bir
 - Tokenları güvenli saklayın
 - Rate limit kurallarına uyun
 
-## 🔄 Güncellemeler
+## 🔄 Güncellemelerr
 
 - v1.0: İlk sürüm - Panel UI ve temel özellikler
 - Gelecek: Gerçek hesap oluşturma entegrasyonu (yasal çerçevede)
